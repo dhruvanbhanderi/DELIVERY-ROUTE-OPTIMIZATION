@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Delivery Route Optimization
 
 This project is a C program for optimizing delivery routes using Dijkstra's algorithm. The program computes the shortest path between predefined shops and calculates the total distance and time required to complete the journey.
@@ -52,3 +53,7 @@ Enter the number of shops to visit (excluding starting point 0): 5 Enter the ind
 Route and distances: Shortest path from Home to Zen Spa: Path: Home -> Gadget Galaxy -> Fresh Mart -> Gourmet Delights -> Eco-Friendly Goods -> Zen Spa Total distance in Kilometers: 21 Shortest path from Zen Spa to Tech Hub Electronics: Path: Zen Spa -> Fit & Fine Gym -> Quick Fix Auto -> Fashion Forward -> Tech Hub Electronics Total distance in Kilometers: 20 ...
 
 Total distance for the complete route: 70 Time taken to cover the route is 2.333333 hours
+=======
+# DELIVERY-ROUTE-OPTIMIZATION
+his project is a C program for optimizing delivery routes using Dijkstra's algorithm. The program computes the shortest path between predefined shops and calculates the total distance and time required to complete the journey.
+>>>>>>> origin/main
